@@ -1,5 +1,9 @@
 [
     {
+        "name": "standard",
+	"short": "std"
+    },
+    {
         "name": "happy",
         "short": "hap"
     }
